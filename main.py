@@ -84,4 +84,3 @@ print()
 
 f = Fight()
 print(f.fight(c1, c2))
-print()
